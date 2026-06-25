@@ -1,0 +1,20 @@
+
+.ToDoList-style{
+  align-items: center;
+}
+#l1:hover,#l2:hover,#l3:hover{
+  font-family: cursive;
+background-color: lightgray;
+padding: 2px;   
+width: 200px;   
+height: 40px; 
+color: black;
+
+}
+.style-Header{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding: 5px;
+  text-align: center;
+  background-color: #8b4ec5;
+
+}
