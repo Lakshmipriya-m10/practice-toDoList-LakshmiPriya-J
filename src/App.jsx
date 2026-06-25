@@ -1,19 +1,18 @@
 
 import './App.css'
-import Header from './components/ToDoList'
-import ToDoList from './components/Header'
+import Header from './components/Header'
+import ToDoList from './components/ToDoList'
 
 function App() {
   
   return (
-    <>
      <div>
-    
-      <ToDoList/>
       <Header/>
-       
+      <ToDoList/>
+      
+      
       </div>
-    </>
+    
   );
 }
 
